@@ -1,0 +1,3 @@
+[submodule "lib/typst-palette"]
+	path = lib/typst-palette
+	url = https://github.com/kaarmu/typst-palette
